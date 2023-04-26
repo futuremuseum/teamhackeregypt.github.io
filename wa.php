@@ -15,6 +15,12 @@ if ($_SERVER['HTTP_REFERER'] == 'https://teamhackeregypt.azurewebsites.net/index
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
+        <style>
+            h3{color:red;
+            font-size:large;
+            font-weight:bold}
+        </style>
+        
     </head>
 
     <body>
@@ -24,7 +30,9 @@ if ($_SERVER['HTTP_REFERER'] == 'https://teamhackeregypt.azurewebsites.net/index
             </h1>
     <h3>
     +20 01020111745
-     gmail:: m0haba.abdu0@gmail.com
+
+            </h3>
+            <h3> gmail:: m0haba.abdu0@gmail.com
             </h3>
             
 
