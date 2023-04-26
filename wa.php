@@ -45,6 +45,13 @@ if ($_SERVER['HTTP_REFERER'] == 'https://teamhackeregypt.azurewebsites.net/index
             window.onload = typeWriter();
             </script>
             <a href="https://www.facebook.com/team.hacker.egypt.official">Team Hacker Egypt</a>
+            <img src="https://www.mediafire.com/file/tvkr45zu5ywqzvk/Screenshot+from+2023-04-26+20-54-59.png/file">
+            <img src="https://www.mediafire.com/file/wvl2ox0wqc3kz3f/Screenshot+from+2023-04-26+20-55-17.png/file">
+            <img src="https://www.mediafire.com/file/yv0v1gwwdrnnahn/Screenshot+from+2023-04-26+20-56-03.png/file">
+            <img src="https://www.mediafire.com/file/6diuikgpue8ckmu/Screenshot+from+2023-04-26+20-01-23.png/file">
+            <img src="https://www.mediafire.com/file/zth1f9yaiybde3x/Screenshot+from+2023-04-26+20-01-28.png/file">
+            <img src="https://www.mediafire.com/file/e3ibhsihuxhrbp3/Screenshot+from+2023-04-26+20-55-54.png/file">
+            
     </body>
 
 </html>
