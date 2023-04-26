@@ -1,8 +1,8 @@
 <?php
-if ($_SERVER['HTTP_REFERER'] == 'http://localhost/index.php') {
+if ($_SERVER['HTTP_REFERER'] == 'https://teamhackeregypt.azurewebsites.net/index.php') {
     
 } else {
-    header("Location: http://localhost/index.php");
+    header("Location: https://teamhackeregypt.azurewebsites.net/index.php");
 }
 
 
