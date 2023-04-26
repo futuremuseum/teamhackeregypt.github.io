@@ -18,7 +18,8 @@ if ($_SERVER['HTTP_REFERER'] == 'https://teamhackeregypt.azurewebsites.net/index
         <style>
             h3{color:red;
             font-size:large;
-            font-weight:bold}
+            font-weight:bold;
+            text-align:center}
         </style>
         
     </head>
