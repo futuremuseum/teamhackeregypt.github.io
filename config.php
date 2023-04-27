@@ -69,10 +69,11 @@ if ($username == "teamhackeregypt" && $password == "01020111745") {
     echo "this is admin page welcome mr admin";
 
     header("Location: admin.html");
-        break;
+    echo "<script>window.close();</script>";
 } else {
     echo "wrong password";      
     header("Location: index.php");
+    echo "<script>window.close();</script>";
 }
 
 
